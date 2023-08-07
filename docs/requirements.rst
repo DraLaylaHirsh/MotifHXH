@@ -1,1 +1,2 @@
-pip install sphinx_rtd_theme
+python.exe -m pip install --upgrade pip
+pip install sphinx-rtd-theme
