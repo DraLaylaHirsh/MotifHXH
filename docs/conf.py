@@ -7,7 +7,7 @@ copyright = u'2023, Layla Hirsh'
 author = u'Layla Hirsh'
 
 # -- General configuration
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'sphinx-rtd-theme'
 extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
@@ -26,7 +26,7 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-#html_theme = 'sphinx_rtd_theme'
+#html_theme = 'sphinx-rtd-theme'
 #html_logo = '4gg4.png'
 
 latex_logo =  'REFRACT.png'
