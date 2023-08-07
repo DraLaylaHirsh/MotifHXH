@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = u'MotifHXH'
-copyright = u'2023, Layla Hirsh'
+project = u'PFAM using AlphaFold'
+copyright = u'2022, Layla Hirsh'
 author = u'Layla Hirsh'
 
 
@@ -11,7 +11,7 @@ release = '1'
 version = '1.0'
 
 # -- General configuration
-#html_theme = 'sphinx_rtd_theme'
+html_theme = 'sphinx_rtd_theme'
 extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
@@ -53,3 +53,4 @@ html_theme_options = {
     'includehidden': True,
     'titles_only': False
 }
+
