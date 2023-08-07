@@ -1,1 +1,2 @@
-MOTIF
+Motif HxH
+=========
