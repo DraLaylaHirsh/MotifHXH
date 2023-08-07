@@ -6,9 +6,9 @@ project = u'Motif HxH'
 copyright = u'2023, Layla Hirsh'
 author = u'Layla Hirsh'
 
-
 extensions = [
-+    'sphinx_rtd_theme',
-    'sphinx.ext.autodoc',
-    'sphinx_autodoc_typehints'
+    ...
+    'sphinx_rtd_theme',
 ]
+
+html_theme = "sphinx_rtd_theme"
