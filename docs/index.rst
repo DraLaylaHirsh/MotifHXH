@@ -3,10 +3,13 @@ Welcome to HxH motif
 ####################
 
 ************
-Introduction
+Introduction 
 ************
 
-This material was made to evaluate Alphafold models for a particular group of PFAM families.
+PF12789 Phage tail repeat like  family largely contains proteins from the eukaryote Trichomonas vaginalis. 
+These proteins contain multiple HXH repeats. 
+Some proteins in this family are annotated as having phage tail repeats. 
+The function of this family is unknown
 
 .. note::
    This document was created during a REFRACT secondment made by Layla Hirsh at Andrey Kajava's laboratory 
