@@ -27,7 +27,7 @@ The following table shows how they are represented in average :
 
 The patters of the presence of the motifs in quantity are shown in the following table:
 
-.. image:: /images/table.png
+.. image:: /images/table.png 
 .. image:: /images/table2.png
 .. image:: /images/table3.png
 .. image:: /images/table4.png
