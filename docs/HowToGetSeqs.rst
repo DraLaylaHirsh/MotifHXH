@@ -4,3 +4,16 @@ We visit PFAM entry for Phage tail repeat like `here <https://www.ebi.ac.uk/inte
 From this page we obtain the SEED and curate it, obtaining `this new SEED <https://github.com/DraLaylaHirsh/MotifHXH/blob/0a919053e5ccf16bca6110c5f9ed3a03f696efd4/docs/best85817344-35C1.afa/>`_
 
 .. image:: /images/SEEDHxH.png
+
+This SEED gave us diferent architecture domains
+
+
+.. image:: /images/domains1.png
+
+.. image:: /images/domains2.png
+
+.. image:: /images/domains3.png
+
+.. image:: /images/domains4.png
+
+.. image:: /images/domains5.png
