@@ -14,6 +14,10 @@ This SEED gave us diferent architecture domains
 .. image:: /images/domains4.png
 .. image:: /images/domains5.png
 
+The taxonomy distribution is shown here:
+
+.. image:: /images/taxonomi.png
+
 We obtained all `1077 complete sequences <https://github.com/DraLaylaHirsh/MotifHXH/blob/6e6c74142624eb4bf96832738d80269f43623d95/docs/bestCompleteSeq.fa/>`_ gathered using the previous profile and eliminate 80% redundancy `sequences (162 sequences) <https://github.com/DraLaylaHirsh/MotifHXH/blob/6e6c74142624eb4bf96832738d80269f43623d95/docs/bestCompleteSeqNoRed.fa/>`_. 
 
 Then this 162 sequences where analized and was confirmed that only 149 contain the Motif. 
