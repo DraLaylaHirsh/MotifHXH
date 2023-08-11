@@ -22,9 +22,11 @@ We obtained all `1077 complete sequences <https://github.com/DraLaylaHirsh/Motif
 
 Then this 162 sequences where analized and was confirmed that only 149 contain the Motif. 
 The following table shows how they are represented in average :
+
 .. image:: /images/averagecount.png
 
 The patters of the presence of the motifs in quantity are shown in the following table:
+
 .. image:: /images/table.png
 
 .. image:: /images/table2.png
