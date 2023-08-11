@@ -4,6 +4,8 @@ We took the complete sequences and aligned them:
 
 .. image:: /images/seqsAlignedHSH_1.png
 
+By conservation:
+
 .. image:: /images/seqsAlignedHSH_1Conservation.png
 
 
@@ -14,6 +16,7 @@ Alpha fold model A0A4R1KKQ8
 Sequence:
 
 .. code-block:: Sequence
+
   >tr|A0A4R1KKQ8|A0A4R1KKQ8_9PAST Tail-like repeat protein OS=Lonepinella koalarum OX=53417 GN=EV692_2387 PE=4 SV=1
   MANLKETAQWETGIYQLETSDPVMGGEDGVDNRQAKQLANRTAYLKEQVESLGSDKANAN
   HSHAIADITNLQTTLNSKANATDLTSANSNFTTLRNILVGVPIPHPLSSVPTGCLVMNGQ
