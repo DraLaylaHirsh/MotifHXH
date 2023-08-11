@@ -17,6 +17,7 @@ The aim of this material is to analize the cases where this motif is present
    HowToGetSeqs
    HTH_1
    HSH_1
+   HGH_1
    HKH_1
    HFH_1
    HAH_1
