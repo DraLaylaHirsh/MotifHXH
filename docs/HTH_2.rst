@@ -1,4 +1,4 @@
-Motif HTH (two copie)
+Motif HTH (two copies)
 =====================
 We took the complete sequences and aligned them:
 
