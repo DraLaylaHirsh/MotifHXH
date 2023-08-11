@@ -22,6 +22,7 @@ The aim of this material is to analize the cases where this motif is present
    HFH_1
    HAH_1
    HTH_2
+   HGH_2
 
 .. note::
    This document was created during a REFRACT secondment made by Layla Hirsh at Andrey Kajava's laboratory 
