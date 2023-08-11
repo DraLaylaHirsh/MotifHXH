@@ -13,6 +13,9 @@ The function of this family is unknown
 
 The aim of this material is to analize the cases where this motif is present
 
+.. toctree::
+   How we got the sequences
+
 .. note::
    This document was created during a REFRACT secondment made by Layla Hirsh at Andrey Kajava's laboratory 
    This project is under active development.
