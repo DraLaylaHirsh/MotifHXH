@@ -4,7 +4,7 @@ We took the complete sequences and aligned them:
 
 .. image:: /images/seqsAlignedHGH_1.png
 
-
+.. image:: /images/seqsAlignedHGH_1Conservation.png
 
 Alpha fold model A0A1G6EJ11
 ---------------------------
