@@ -26,8 +26,27 @@ After aligning and cleaning the redundancy we had 16 complete sequences that wer
 
 The motif HxH is present in 3 different sections
 
+Position 330 of the alignment HTH or HIH in position 148 of ost of the sequences. 
+There are some particular cases:
+-A2H129 has the motif in position 17 of the sequence.
+-Four of the sequences ( A2Fw47,A2E7R7, A2GBQ3,A2H129)present a second motif after aprox 20 amino acids (HTH).
+
+
 .. image:: /images/pos330HxH_379.png
+
+Position 480 of the alignment HTH or HKH in position 170-190 of the sequences. 
+There are some particular cases:
+-A2GLX5 has the motif in position 8 of the sequence.
+-Again in some cases we can find a second Motif HXH and even a third and fourth motif in a 20 amino acid distance each all HTH motifs.
+-Some sequences have more motifs in them, but there is no conservation with the others.
 
 .. image:: /images/Pos480HxH379.png
 
+Position 890 of the alignment HTH or HSH in the tail of the sequences. 
+There are some particular cases:
+-After 11 amino acids there is a second motif HSH or HKH in almost all of the sequences.
+-After 36 amino acids there is a third motif HSH or HTH or HQH or HIH or HAH or HVH in almost all of the sequences.
+
 .. image:: /images/Pos820HxH379.png
+
+
