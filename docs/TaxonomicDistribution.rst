@@ -49,4 +49,17 @@ There are some particular cases:
 
 .. image:: /images/Pos820HxH379.png
 
+Considering the 16 complete sequences, we evaluate the type and quantity of amino acids present in the sequence: the amino acids more present in the sequence are marked in red.
+
+.. image:: /images/379aa.png
+
+Considering the 16 complete sequences, we evaluate the type and quantity of the motif HxH present in the sequence and their relative positions: 
+
+.. image:: /images/379motiv.png
+.. image:: /images/379motifPosition.png
+
+Considering the 16 complete sequences, we evaluate the type and order of the motif HxH present in the sequence and their relative positions: 
+
+.. image:: /images/375motiforder.png
+
 
