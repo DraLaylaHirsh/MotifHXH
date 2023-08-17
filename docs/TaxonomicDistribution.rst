@@ -159,7 +159,7 @@ For A2GVQ6, position X of the list, the spectrum: range is 18.42000 to 96.75000.
 
 .. image:: /images/A2GVQ6_trimer.png 
 
-For A2H050, position X of the list, the spectrum: range is  .
+For A2H050, position X of the list, the spectrum: range is 12.80000 to 98.39000.
 
 .. image:: /images/A2H050sumary.png
 
@@ -167,7 +167,7 @@ For A2H050, position X of the list, the spectrum: range is  .
 
 .. image:: /images/A2H050_trimer.png 
 
-For A2H5T2, position X of the list, the spectrum: range is 
+For A2H5T2, position X of the list, the spectrum: range is 29.77000 to 95.89000.
 
 .. image:: /images/A2H5T2_sumary.png
 
@@ -175,7 +175,7 @@ For A2H5T2, position X of the list, the spectrum: range is
 
 .. image:: /images/A2H5T2_trimer.png 
 
-For A2HFA0, position X of the list, the spectrum: range is  
+For A2HFA0, position X of the list, the spectrum: range is 23.05000 to 94.38000. 
 
 .. image:: /images/A2HFA0_sumary.png
 
@@ -183,7 +183,7 @@ For A2HFA0, position X of the list, the spectrum: range is
 
 .. image:: /images/A2HFA0_trimer.png 
 
-For A2HL88, position X of the list, the spectrum: range is  
+For A2HL88, position X of the list, the spectrum: range is  31.95000 to 96.71000.
 
 .. image:: /images/A2HL88_sumary.png
 
@@ -191,7 +191,7 @@ For A2HL88, position X of the list, the spectrum: range is
 
 .. image:: /images/A2HL88_trimer.png 
 
-For A2HP84, position X of the list, the spectrum: range is  
+For A2HP84, position X of the list, the spectrum: range is  32.40000 to 98.01000
 
 .. image:: /images/A2HP84_sumary.png
 
