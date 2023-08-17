@@ -56,10 +56,18 @@ Considering the 16 complete sequences, we evaluate the type and quantity of amin
 Considering the 16 complete sequences, we evaluate the type and quantity of the motif HxH present in the sequence and their relative positions: 
 
 .. image:: /images/379motiv.png
-.. image:: /images/379motifPosition.png
+
 
 Considering the 16 complete sequences, we evaluate the type and order of the motif HxH present in the sequence and their relative positions: 
 
+.. image:: /images/379motifPosition.png
+
 .. image:: /images/375motiforder.png
 
+All the complete sequences as trimmers were sent to AlphaFold Cluster, only  A2FEE1 and A2GLX5 retrive an output.
 
+For A2FEE1  Spectrum: range is 21.94000 to 96.58000.
+
+.. image:: /images/A2FEE1_trimerbfactor.png
+
+.. image:: /images/A2FEE1_trimer.png 
