@@ -129,12 +129,12 @@ Considering the 12 complete sequences, we evaluate the type and quantity of amin
 
 .. image:: /images/231aa.png
 
-Considering the 16 complete sequences, we evaluate the type and quantity of the motif HxH present in the sequence and their relative positions: 
+Considering the 12 complete sequences, we evaluate the type and quantity of the motif HxH present in the sequence and their relative positions: 
 
 .. image:: /images/231motif.png
 
 
-Considering the 16 complete sequences, we evaluate the type and order of the motif HxH present in the sequence and their relative positions: 
+Considering the 12 complete sequences, we evaluate the type and order of the motif HxH present in the sequence and their relative positions: 
 
 .. image:: /images/231motifPosition.png
 
