@@ -161,7 +161,7 @@ For A2GVQ6, position X of the list, the spectrum: range is 18.42000 to 96.75000.
 
 For A2H050, position X of the list, the spectrum: range is 12.80000 to 98.39000.
 
-.. image:: /images/A2H050sumary.png
+.. image:: /images/A2H050_sumary.png
 
 .. image:: /images/A2H050_trimerbfactor.png
 
