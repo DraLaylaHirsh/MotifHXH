@@ -68,6 +68,8 @@ All the complete sequences as trimmers were sent to AlphaFold Cluster, only A2DG
 
 For A2FEE1, position 14 of the list, the spectrum: range is 21.94000 to 96.58000.
 
+.. image:: /images/A2FEE1_sumary.png
+
 .. image:: /images/A2FEE1_trimerbfactor.png
 
 .. image:: /images/A2FEE1_trimer.png 
@@ -75,7 +77,8 @@ For A2FEE1, position 14 of the list, the spectrum: range is 21.94000 to 96.58000
 
 For A2DGZ2, position 7 of the list, the spectrum: range is 31.46000 to 98.06000.
 
- 
+ .. image:: /images/A2DGZ2_sumary.png
+
 .. image:: /images/A2DGZ2_trimerbfactor.png
 
 .. image:: /images/A2DGZ2_trimer.png 
