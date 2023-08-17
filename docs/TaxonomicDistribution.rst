@@ -77,7 +77,7 @@ For A2FEE1, position 14 of the list, the spectrum: range is 21.94000 to 96.58000
 
 For A2DGZ2, position 7 of the list, the spectrum: range is 31.46000 to 98.06000.
 
- .. image:: /images/A2DGZ2_sumary.png
+.. image:: /images/A2DGZ2_sumary.png
 
 .. image:: /images/A2DGZ2_trimerbfactor.png
 
@@ -85,7 +85,7 @@ For A2DGZ2, position 7 of the list, the spectrum: range is 31.46000 to 98.06000.
 
 For A2GLX5, position 5 of the list, the spectrum: range is  
 
- .. image:: /images/A2GLX5_sumary.png
+.. image:: /images/A2GLX5_sumary.png
 
 .. image:: /images/A2GLX5_trimerbfactor.png
 
@@ -93,7 +93,7 @@ For A2GLX5, position 5 of the list, the spectrum: range is
 
 For A2H129, position 9 of the list, the spectrum: range is 
 
- .. image:: /images/A2H129_sumary.png
+.. image:: /images/A2H129_sumary.png
 
 .. image:: /images/A2H129_trimerbfactor.png
 
