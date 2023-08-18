@@ -284,7 +284,8 @@ Cluster 122
 
 After aligning and cleaning the redundancy we had 15 complete sequences that were trimmed 
 
-.. image:: /images/ali122.png
+.. image:: /images/Pos1HxH122.png
+.. image:: /images/Pos500HxH122.png
 
 The motif HxH is present in 2 different sections
 
@@ -294,7 +295,7 @@ There are some particular cases:
 - For one of the sequences there is a HRH motif in position 51
 
 
-.. image:: /images/Pos150HxH122.png
+.. image:: /images/Pos180HxH122.png
 
 Position 520 of the alignment HTH or HSH in the tail of the sequences. 
 There are some particular cases:
@@ -302,7 +303,23 @@ There are some particular cases:
 -After 36 amino acids there is a third motif HSH or HTH or HQH or HIH or HAH  in almost all of the sequences.
 -For some of the sequences a tail of 3 motifs, a mix of HTH HSH HIH HKH
 
-.. image:: /images/Pos520HxH122.png
+.. image:: /images/Pos350HxH122.png
+
+Position 520 of the alignment HTH or HSH in the tail of the sequences. 
+There are some particular cases:
+-After 11 amino acids there is a second motif HSH or HKH in almost all of the sequences.
+-After 36 amino acids there is a third motif HSH or HTH or HQH or HIH or HAH  in almost all of the sequences.
+-For some of the sequences a tail of 3 motifs, a mix of HTH HSH HIH HKH
+
+.. image:: /images/Pos650HxH122.png
+
+Position 520 of the alignment HTH or HSH in the tail of the sequences. 
+There are some particular cases:
+-After 11 amino acids there is a second motif HSH or HKH in almost all of the sequences.
+-After 36 amino acids there is a third motif HSH or HTH or HQH or HIH or HAH  in almost all of the sequences.
+-For some of the sequences a tail of 3 motifs, a mix of HTH HSH HIH HKH
+
+.. image:: /images/Pos820HxH122.png
 
 Considering the 12 complete sequences, we evaluate the type and quantity of amino acids present in the sequence: the amino acids more present in the sequence are marked in red.
 
@@ -323,7 +340,7 @@ All the complete sequences as trimmers were sent to AlphaFold Cluster, only  ret
 
 
 
-For ` A2H8J0 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2H8J0.pdb>`_ , position 6 of the list, the spectrum: range is  13.97000 to 96.50000
+For `A2H8J0 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2H8J0.pdb>`_ , position 6 of the list, the spectrum: range is  13.97000 to 96.50000
 
 .. image:: /images/A2H8J0_sumary.png
 
