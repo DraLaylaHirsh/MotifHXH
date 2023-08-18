@@ -222,7 +222,7 @@ Considering the 12 complete sequences, we evaluate the type and order of the mot
 All the complete sequences as trimmers were sent to AlphaFold Cluster, only A2GSU3, A2GVQ6, A2H050, A2H5T2, A2HFA0, A2HL88, A2HP84 retrive an output.
 
 
-For A2GSU3, position X of the list, the spectrum: range is 30.83000 to 98.92000.
+For `A2GSU3 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2GSU3.pdb>`_ , position 1 of the list, the spectrum: range is 30.83000 to 98.92000.
 
 .. image:: /images/A2GSU3_sumary.png
 
@@ -230,7 +230,7 @@ For A2GSU3, position X of the list, the spectrum: range is 30.83000 to 98.92000.
 
 .. image:: /images/A2GSU3_trimer.png 
 
-For A2GVQ6, position X of the list, the spectrum: range is 18.42000 to 96.75000.
+For `A2GVQ6 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2GVQ6.pdb>`_ , position 11 of the list, the spectrum: range is 18.42000 to 96.75000.
 
 .. image:: /images/A2GVQ6_sumary.png
 
@@ -238,7 +238,7 @@ For A2GVQ6, position X of the list, the spectrum: range is 18.42000 to 96.75000.
 
 .. image:: /images/A2GVQ6_trimer.png 
 
-For A2H050, position X of the list, the spectrum: range is 12.80000 to 98.39000.
+For `A2H050 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2H050.pdb>`_ , position 9 of the list, the spectrum: range is 12.80000 to 98.39000.
 
 .. image:: /images/A2H050_sumary.png
 
@@ -246,7 +246,7 @@ For A2H050, position X of the list, the spectrum: range is 12.80000 to 98.39000.
 
 .. image:: /images/A2H050_trimer.png 
 
-For A2H5T2, position X of the list, the spectrum: range is 29.77000 to 95.89000.
+For `A2H5T2 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2H5T2.pdb>`_ , position 2 of the list, the spectrum: range is 29.77000 to 95.89000.
 
 .. image:: /images/A2H5T2_sumary.png
 
@@ -254,7 +254,7 @@ For A2H5T2, position X of the list, the spectrum: range is 29.77000 to 95.89000.
 
 .. image:: /images/A2H5T2_trimer.png 
 
-For A2HFA0, position X of the list, the spectrum: range is 23.05000 to 94.38000. 
+For `A2HFA0 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2HFA0.pdb>`_ , position 5 of the list, the spectrum: range is 23.05000 to 94.38000. 
 
 .. image:: /images/A2HFA0_sumary.png
 
@@ -262,7 +262,7 @@ For A2HFA0, position X of the list, the spectrum: range is 23.05000 to 94.38000.
 
 .. image:: /images/A2HFA0_trimer.png 
 
-For A2HL88, position X of the list, the spectrum: range is  31.95000 to 96.71000.
+For `A2HL88 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2HL88.pdb>`_ , position 8 of the list, the spectrum: range is  31.95000 to 96.71000.
 
 .. image:: /images/A2HL88_sumary.png
 
@@ -270,10 +270,109 @@ For A2HL88, position X of the list, the spectrum: range is  31.95000 to 96.71000
 
 .. image:: /images/A2HL88_trimer.png 
 
-For A2HP84, position X of the list, the spectrum: range is  32.40000 to 98.01000
+For `A2HP84 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2HP84.pdb>`_ , position 6 of the list, the spectrum: range is  32.40000 to 98.01000
 
 .. image:: /images/A2HP84_sumary.png
 
 .. image:: /images/A2HP84_trimerbfactor.png
 
 .. image:: /images/A2HP84_trimer.png 
+
+
+Cluster122
+----------
+
+After aligning and cleaning the redundancy we had 15 complete sequences that were trimmed 
+
+.. image:: /images/ali122.png
+
+The motif HxH is present in 2 different sections
+
+Position 150 of the alignment HTH or HIH in position 148 of ost of the sequences. 
+There are some particular cases:
+- Position 117 or 67 an HTH motif and after 30 aa another HTH motif and a third one HTH after 20, a fourth HTH after 20aa
+- For one of the sequences there is a HRH motif in position 51
+
+
+.. image:: /images/Pos150HxH122.png
+
+Position 520 of the alignment HTH or HSH in the tail of the sequences. 
+There are some particular cases:
+-After 11 amino acids there is a second motif HSH or HKH in almost all of the sequences.
+-After 36 amino acids there is a third motif HSH or HTH or HQH or HIH or HAH  in almost all of the sequences.
+-For some of the sequences a tail of 3 motifs, a mix of HTH HSH HIH HKH
+
+.. image:: /images/Pos520HxH122.png
+
+Considering the 12 complete sequences, we evaluate the type and quantity of amino acids present in the sequence: the amino acids more present in the sequence are marked in red.
+
+.. image:: /images/122aa.png
+
+Considering the 12 complete sequences, we evaluate the type and quantity of the motif HxH present in the sequence and their relative positions: 
+
+.. image:: /images/122motif.png
+
+
+Considering the 12 complete sequences, we evaluate the type and order of the motif HxH present in the sequence and their relative positions: 
+
+.. image:: /images/122motifPosition.png
+
+.. image:: /images/122motiforder.png
+
+All the complete sequences as trimmers were sent to AlphaFold Cluster, only  retrive an output.
+
+
+
+For ` A2H8J0 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2H8J0.pdb>`_ , position 6 of the list, the spectrum: range is  13.97000 to 96.50000
+
+.. image:: /images/A2H8J0_sumary.png
+
+.. image:: /images/A2H8J0_trimerbfactor.png
+
+.. image:: /images/A2H8J0_trimer.png 
+
+For `A2HVD0  <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2HVD0.pdb>`_ , position 6 of the list, the spectrum: range is  19.90000 to 98.34000
+
+.. image:: /images/A2HVD0_sumary.png
+
+.. image:: /images/A2HVD0_trimerbfactor.png
+
+.. image:: /images/A2HVD0_trimer.png 
+
+For `A2EM49  <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2EM49.pdb>`_ , position 6 of the list, the spectrum: range is  16.30000 to 95.08000
+
+.. image:: /images/A2EM49_sumary.png
+
+.. image:: /images/A2EM49_trimerbfactor.png
+
+.. image:: /images/A2EM49_trimer.png 
+
+
+For ` A2EZZ0 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2EZZ0.pdb>`_ , position 6 of the list, the spectrum: range is 11.01000 to 96.72000
+
+.. image:: /images/A2EZZ0_sumary.png
+
+.. image:: /images/A2EZZ0_trimerbfactor.png
+
+.. image:: /images/A2EZZ0_trimer.png 
+
+ 
+For ` A2EVF3 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2EVF3.pdb>`_ , position 6 of the list, the spectrum: range is 13.71000 to 96.46000
+
+.. image:: /images/A2EVF3_sumary.png
+
+.. image:: /images/A2EVF3_trimerbfactor.png
+
+.. image:: /images/A2EVF3_trimer.png 
+
+ 
+For ` A2FAV7 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2FAV7.pdb>`_ , position 6 of the list, the spectrum: range is 23.80000 to 96.32000
+
+.. image:: /images/A2FAV7_sumary.png
+
+.. image:: /images/A2FAV7_trimerbfactor.png
+
+.. image:: /images/A2FAV7_trimer.png 
+
+ 
+ 
