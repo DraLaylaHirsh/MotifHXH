@@ -99,6 +99,71 @@ For A2H129, position 9 of the list, the spectrum: range is 15.60000 to 97.58000.
 
 .. image:: /images/A2H129_trimer.png 
 
+We edit some of the non resulting sequences, elimating XX regions and in some cases even some of the N-ter or C-ter
+
+For A2E7R7, position 13 of the list, the spectrum: range is 23.76000 to 97.17000 after eliminating N-term aa.
+
+.. image:: /images/A2E7R7_sumary.png
+
+.. image:: /images/A2E7R7_trimerbfactor.png
+
+.. image:: /images/A2E7R7_trimer.png 
+
+
+For A2FAH0, position 8 of the list, the spectrum: range is 17.58000 to 96.23000 after eliminating N-term aa.
+
+.. image:: /images/A2FAH0_sumary.png
+
+.. image:: /images/A2FAH0_trimerbfactor.png
+
+.. image:: /images/A2FAH0_trimer.png 
+
+For A2FCB6, position 4 of the list, the spectrum: range is 16.93000 to 94.57000 after eliminating C-term aa.
+
+.. image:: /images/A2FCB6_sumary.png
+
+.. image:: /images/A2FCB6_trimerbfactor.png
+
+.. image:: /images/A2FCB6_trimer.png 
+
+For A2FI27, position 2 of the list, the spectrum: range is 17.19000 to 97.01000 after eliminating C-term aa.
+
+.. image:: /images/A2FI27_sumary.png
+
+.. image:: /images/A2FI27_trimerbfactor.png
+
+.. image:: /images/A2FI27_trimer.png 
+
+
+For A2FI29, position 3 of the list, the spectrum: range is 23.37000 to 96.74000 after eliminating C-term aa.
+
+.. image:: /images/A2FI29_sumary.png
+
+.. image:: /images/A2FI29_trimerbfactor.png
+
+.. image:: /images/A2FI29_trimer.png 
+
+
+For A2FPI4, position 12 of the list, the spectrum: range is 20.75000 to 98.56000 after eliminating N-term aa.
+
+.. image:: /images/A2FPI4_sumary.png
+
+.. image:: /images/A2FPI4_trimerbfactor.png
+
+.. image:: /images/A2FPI4_trimer.png 
+
+ 
+For A2FI27, position 15 of the list, the spectrum: range is 18.24000 to 90.82000 after eliminating C-term aa.
+
+.. image:: /images/A2FW47_sumary.png
+
+.. image:: /images/A2FW47_trimerbfactor.png
+
+.. image:: /images/A2FW47_trimer.png 
+
+h/rech/spo/urm84bz/A2GBQ3_trimer.png".
+ Spectrum: range (19.78000 to 95.30000).
+
 
 Cluster 231
 -----------
