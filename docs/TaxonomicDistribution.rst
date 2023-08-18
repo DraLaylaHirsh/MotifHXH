@@ -62,7 +62,7 @@ Considering the 16 complete sequences, we evaluate the type and order of the mot
 
 .. image:: /images/379motifPosition.png
 
-.. image:: /images/375motiforder.png
+.. image:: /images/379motiforder.png
 
 All the complete sequences as trimmers were sent to AlphaFold Cluster, only A2DGZ2, A2FEE1, A2GLX5 and A2H129 retrive an output.
 
