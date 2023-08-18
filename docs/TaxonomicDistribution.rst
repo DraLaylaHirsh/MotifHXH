@@ -279,8 +279,8 @@ For `A2HP84 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdc
 .. image:: /images/A2HP84_trimer.png 
 
 
-Cluster122
-----------
+Cluster 122
+-----------
 
 After aligning and cleaning the redundancy we had 15 complete sequences that were trimmed 
 
