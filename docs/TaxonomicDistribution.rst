@@ -66,7 +66,7 @@ Considering the 16 complete sequences, we evaluate the type and order of the mot
 
 All the complete sequences as trimmers were sent to AlphaFold Cluster, only A2DGZ2, A2FEE1, A2GLX5 and A2H129 retrive an output.
 
-For A2FEE1 `A2FEE1 <https://www.ebi.ac.uk/interpro/entry/pfam/PF00880/>`_ , position 14 of the list, the spectrum: range is 21.94000 to 96.58000.
+For A2FEE1 `A2FEE1 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2FEE1.pdb>`_ , position 14 of the list, the spectrum: range is 21.94000 to 96.58000.
 
 .. image:: /images/A2FEE1_sumary.png
 
@@ -164,6 +164,13 @@ For A2FI27, position 15 of the list, the spectrum: range is 18.24000 to 90.82000
 h/rech/spo/urm84bz/A2GBQ3_trimer.png".
  Spectrum: range (19.78000 to 95.30000).
 
+For A2GBQ3, position 11 of the list, the spectrum: range is 18.24000 to 90.82000 after eliminating N-term aa.
+
+.. image:: /images/A2GBQ3_sumary.png
+
+.. image:: /images/A2GBQ3_trimerbfactor.png
+
+.. image:: /images/A2GBQ3_trimer.png 
 
 Cluster 231
 -----------
