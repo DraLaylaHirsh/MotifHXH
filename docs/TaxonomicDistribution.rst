@@ -153,7 +153,7 @@ For  `A2FPI4 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cd
 .. image:: /images/A2FPI4_trimer.png 
 
  
-For  `A2FI27 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2FI27.pdb>`_ , position 15 of the list, the spectrum: range is 18.24000 to 90.82000 after eliminating C-term aa.
+For  `A2FW47 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2FW47.pdb>`_ , position 15 of the list, the spectrum: range is 18.24000 to 90.82000 after eliminating C-term aa.
 
 .. image:: /images/A2FW47_sumary.png
 
