@@ -161,10 +161,8 @@ For  `A2FI27 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cd
 
 .. image:: /images/A2FW47_trimer.png 
 
-h/rech/spo/urm84bz/A2GBQ3_trimer.png".
- Spectrum: range (19.78000 to 95.30000).
 
-For  `A2GBQ3 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2GBQ3.pdb>`_ , position 11 of the list, the spectrum: range is 18.24000 to 90.82000 after eliminating N-term aa.
+For  `A2GBQ3 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2GBQ3.pdb>`_ , position 10 of the list, the spectrum: range is 18.24000 to 90.82000 after eliminating N-term aa.
 
 .. image:: /images/A2GBQ3_sumary.png
 
