@@ -170,6 +170,15 @@ For  `A2GBQ3 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cd
 
 .. image:: /images/A2GBQ3_trimer.png 
 
+For  `A2DF55 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2DF55.pdb>`_ , position 16 of the list, the spectrum: range is 22.58000 to 91.56000 after eliminating N-term aa.
+
+.. image:: /images/A2DF55_sumary.png
+
+.. image:: /images/A2DF55_trimerbfactor.png
+
+.. image:: /images/A2DF55_trimer.png 
+ 
+
 Cluster 231
 -----------
 
