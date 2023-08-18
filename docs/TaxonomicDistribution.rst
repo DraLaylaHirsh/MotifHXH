@@ -66,7 +66,7 @@ Considering the 16 complete sequences, we evaluate the type and order of the mot
 
 All the complete sequences as trimmers were sent to AlphaFold Cluster, only A2DGZ2, A2FEE1, A2GLX5 and A2H129 retrive an output.
 
-For A2FEE1 `A2FEE1 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2FEE1.pdb>`_ , position 14 of the list, the spectrum: range is 21.94000 to 96.58000.
+For `A2FEE1 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2FEE1.pdb>`_ , position 14 of the list, the spectrum: range is 21.94000 to 96.58000.
 
 .. image:: /images/A2FEE1_sumary.png
 
@@ -75,7 +75,7 @@ For A2FEE1 `A2FEE1 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769
 .. image:: /images/A2FEE1_trimer.png 
 
 
-For A2DGZ2, position 7 of the list, the spectrum: range is 31.46000 to 98.06000.
+For  `A2DGZ2 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2DGZ2.pdb>`_ , position 7 of the list, the spectrum: range is 31.46000 to 98.06000.
 
 .. image:: /images/A2DGZ2_sumary.png
 
@@ -83,7 +83,7 @@ For A2DGZ2, position 7 of the list, the spectrum: range is 31.46000 to 98.06000.
 
 .. image:: /images/A2DGZ2_trimer.png 
 
-For A2GLX5, position 5 of the list, the spectrum: range is  20.93000 to 95.96000.
+For  `A2GLX5 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2GLX5.pdb>`_ , position 5 of the list, the spectrum: range is  20.93000 to 95.96000.
 
 .. image:: /images/A2GLX5_sumary.png
 
@@ -91,7 +91,7 @@ For A2GLX5, position 5 of the list, the spectrum: range is  20.93000 to 95.96000
 
 .. image:: /images/A2GLX5_trimer.png 
 
-For A2H129, position 9 of the list, the spectrum: range is 15.60000 to 97.58000.
+For   `A2H129 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2H129.pdb>`_ , position 9 of the list, the spectrum: range is 15.60000 to 97.58000.
 
 .. image:: /images/A2H129_sumary.png
 
@@ -101,7 +101,7 @@ For A2H129, position 9 of the list, the spectrum: range is 15.60000 to 97.58000.
 
 We edit some of the non resulting sequences, elimating XX regions and in some cases even some of the N-ter or C-ter
 
-For A2E7R7, position 13 of the list, the spectrum: range is 23.76000 to 97.17000 after eliminating N-term aa.
+For  `A2E7R7 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2E7R7.pdb>`_ , position 13 of the list, the spectrum: range is 23.76000 to 97.17000 after eliminating N-term aa.
 
 .. image:: /images/A2E7R7_sumary.png
 
@@ -110,7 +110,7 @@ For A2E7R7, position 13 of the list, the spectrum: range is 23.76000 to 97.17000
 .. image:: /images/A2E7R7_trimer.png 
 
 
-For A2FAH0, position 8 of the list, the spectrum: range is 17.58000 to 96.23000 after eliminating N-term aa.
+For  `A2FAH0 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2FAH0.pdb>`_ , position 8 of the list, the spectrum: range is 17.58000 to 96.23000 after eliminating N-term aa.
 
 .. image:: /images/A2FAH0_sumary.png
 
@@ -118,7 +118,7 @@ For A2FAH0, position 8 of the list, the spectrum: range is 17.58000 to 96.23000 
 
 .. image:: /images/A2FAH0_trimer.png 
 
-For A2FCB6, position 4 of the list, the spectrum: range is 16.93000 to 94.57000 after eliminating C-term aa.
+For  `A2FCB6 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2FCB6.pdb>`_ , position 4 of the list, the spectrum: range is 16.93000 to 94.57000 after eliminating C-term aa.
 
 .. image:: /images/A2FCB6_sumary.png
 
@@ -126,7 +126,7 @@ For A2FCB6, position 4 of the list, the spectrum: range is 16.93000 to 94.57000 
 
 .. image:: /images/A2FCB6_trimer.png 
 
-For A2FI27, position 2 of the list, the spectrum: range is 17.19000 to 97.01000 after eliminating C-term aa.
+For  `A2FI27 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2FI27.pdb>`_ , position 2 of the list, the spectrum: range is 17.19000 to 97.01000 after eliminating C-term aa.
 
 .. image:: /images/A2FI27_sumary.png
 
@@ -135,7 +135,7 @@ For A2FI27, position 2 of the list, the spectrum: range is 17.19000 to 97.01000 
 .. image:: /images/A2FI27_trimer.png 
 
 
-For A2FI29, position 3 of the list, the spectrum: range is 23.37000 to 96.74000 after eliminating C-term aa.
+For  `A2FI29 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2FI29.pdb>`_ , position 3 of the list, the spectrum: range is 23.37000 to 96.74000 after eliminating C-term aa.
 
 .. image:: /images/A2FI29_sumary.png
 
@@ -144,7 +144,7 @@ For A2FI29, position 3 of the list, the spectrum: range is 23.37000 to 96.74000 
 .. image:: /images/A2FI29_trimer.png 
 
 
-For A2FPI4, position 12 of the list, the spectrum: range is 20.75000 to 98.56000 after eliminating N-term aa.
+For  `A2FPI4 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2FPI4.pdb>`_ , position 12 of the list, the spectrum: range is 20.75000 to 98.56000 after eliminating N-term aa.
 
 .. image:: /images/A2FPI4_sumary.png
 
@@ -153,7 +153,7 @@ For A2FPI4, position 12 of the list, the spectrum: range is 20.75000 to 98.56000
 .. image:: /images/A2FPI4_trimer.png 
 
  
-For A2FI27, position 15 of the list, the spectrum: range is 18.24000 to 90.82000 after eliminating C-term aa.
+For  `A2FI27 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2FI27.pdb>`_ , position 15 of the list, the spectrum: range is 18.24000 to 90.82000 after eliminating C-term aa.
 
 .. image:: /images/A2FW47_sumary.png
 
@@ -164,7 +164,7 @@ For A2FI27, position 15 of the list, the spectrum: range is 18.24000 to 90.82000
 h/rech/spo/urm84bz/A2GBQ3_trimer.png".
  Spectrum: range (19.78000 to 95.30000).
 
-For A2GBQ3, position 11 of the list, the spectrum: range is 18.24000 to 90.82000 after eliminating N-term aa.
+For  `A2GBQ3 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2GBQ3.pdb>`_ , position 11 of the list, the spectrum: range is 18.24000 to 90.82000 after eliminating N-term aa.
 
 .. image:: /images/A2GBQ3_sumary.png
 
