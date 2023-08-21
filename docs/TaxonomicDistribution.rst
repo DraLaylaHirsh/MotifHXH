@@ -468,9 +468,9 @@ For `A2GRE0 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdc
 
 For `A2GRF3 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2GRF3.pdb>`_ , position 6 of the list, the spectrum: range is 16.07000 to 96.35000
 
-.. image:: /images/_sumary.png
+.. image:: /images/A2GRF3_sumary.png
 
-.. image:: /images/_trimerbfactor.png
+.. image:: /images/A2GRF3_trimerbfactor.png
 
 .. image:: /images/A2GRF3_trimer.png 
 
