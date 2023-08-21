@@ -279,7 +279,7 @@ For `A2HP84 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdc
 .. image:: /images/A2HP84_trimer.png 
 
 
-For `A2FHF8 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2FHF8.pdb>`_ , position 6 of the list, the spectrum: range is 16.16000 to 95.41000
+For `A2FHF8 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2FHF8.pdb>`_ , position 7 of the list, the spectrum: range is 16.16000 to 95.41000
 
 .. image:: /images/A2FHF8_sumary.png
 
@@ -287,7 +287,7 @@ For `A2FHF8 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdc
 
 .. image:: /images/A2FHF8_trimer.png 
 
-For `A2G0Z7 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2G0Z7.pdb>`_ , position 6 of the list, the spectrum: range is   50.72000 to 98.88000
+For `A2G0Z7 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2G0Z7.pdb>`_ , position  4 of the list, the spectrum: range is   50.72000 to 98.88000
 
 .. image:: /images/A2G0Z7_sumary.png
 
@@ -295,7 +295,7 @@ For `A2G0Z7 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdc
 
 .. image:: /images/A2G0Z7_trimer.png 
 
-For `A2EZ81 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2EZ81.pdb>`_ , position 6 of the list, the spectrum: range is  42.22000 to 97.00000
+For `A2EZ81 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2EZ81.pdb>`_ , position 12 of the list, the spectrum: range is  42.22000 to 97.00000
 
 .. image:: /images/A2EZ81_sumary.png
 
@@ -303,7 +303,7 @@ For `A2EZ81 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdc
 
 .. image:: /images/A2EZ81_trimer.png 
 
-For `A2E9U7 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2E9U7.pdb>`_ , position 6 of the list, the spectrum: range is 28.36000 to 98.59000
+For `A2E9U7 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2E9U7.pdb>`_ , position 3 of the list, the spectrum: range is 28.36000 to 98.59000
 
 .. image:: /images/A2E9U7_sumary.png
 
@@ -311,7 +311,7 @@ For `A2E9U7 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdc
 
 .. image:: /images/A2E9U7_trimer.png 
 
-For `A2E7D1 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2E7D1.pdb>`_ , position 6 of the list, the spectrum: range is  23.44000 to 94.72000
+For `A2E7D1 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2E7D1.pdb>`_ , position 10 of the list, the spectrum: range is  23.44000 to 94.72000
 
 .. image:: /images/A2E7D1_sumary.png
 
@@ -434,7 +434,7 @@ For `A2FAV7 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdc
 .. image:: /images/A2FAV7_trimer.png 
 
   
-For `A2F762 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2F762.pdb>`_ , position 6 of the list, the spectrum: range is 16.71000 to 94.09000
+For `A2F762 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2F762.pdb>`_ , position 12 of the list, the spectrum: range is 16.71000 to 94.09000
 
 .. image:: /images/A2F762_sumary.png
 
@@ -442,7 +442,7 @@ For `A2F762 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdc
 
 .. image:: /images/A2F762_trimer.png 
 
-For `A2FDY2 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2FDY2.pdb>`_ , position 6 of the list, the spectrum: range is 13.67000 to 97.50000
+For `A2FDY2 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2FDY2.pdb>`_ , position 7 of the list, the spectrum: range is 13.67000 to 97.50000
 
 .. image:: /images/A2FDY2_sumary.png
 
@@ -450,7 +450,7 @@ For `A2FDY2 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdc
 
 .. image:: /images/A2FDY2_trimer.png 
 
-For `A2GPM0 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2GPM0.pdb>`_ , position 6 of the list, the spectrum: range is 1.99000 to 94.60000
+For `A2GPM0 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2GPM0.pdb>`_ , position 10 of the list, the spectrum: range is 1.99000 to 94.60000
 
 .. image:: /images/A2GPM0_sumary.png
 
@@ -458,7 +458,7 @@ For `A2GPM0 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdc
 
 .. image:: /images/A2GPM0_trimer.png 
 
-For `A2GRE0 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2GRE0.pdb>`_ , position 6 of the list, the spectrum: range is 17.13000 to 89.36000
+For `A2GRE0 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2GRE0.pdb>`_ , position 4 of the list, the spectrum: range is 17.13000 to 89.36000
 
 .. image:: /images/A2GRE0_sumary.png
 
@@ -466,7 +466,7 @@ For `A2GRE0 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdc
 
 .. image:: /images/A2GRE0_trimer.png 
 
-For `A2GRF3 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2GRF3.pdb>`_ , position 6 of the list, the spectrum: range is 16.07000 to 96.35000
+For `A2GRF3 <https://github.com/DraLaylaHirsh/MotifHXH/tree/39a2adeb85769fd33cdcc8bb3844f13e2b5c55d0/docs/pdb/A2GRF3.pdb>`_ , position 15 of the list, the spectrum: range is 16.07000 to 96.35000
 
 .. image:: /images/A2GRF3_sumary.png
 
