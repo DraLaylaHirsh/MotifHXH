@@ -15,7 +15,7 @@ Alpha fold model A0A4R1KKQ8
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|A0A4R1KKQ8|A0A4R1KKQ8_9PAST Tail-like repeat protein OS=Lonepinella koalarum 
   MANLKETAQWETGIYQLETSDPVMGGEDGVDNRQAKQLANRTAYLKEQVESLGSDKANAN
