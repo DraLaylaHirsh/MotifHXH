@@ -8,7 +8,7 @@ Alpha fold model A0A1C9EHQ3
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >A0A1C9EHQ3_9CAUD/11150	
   MQKRALRINFNRSVSGGKPDVMEVAVAPLSEPNSPNNDATLVGGTQTREILLTNENNQVVFEL
