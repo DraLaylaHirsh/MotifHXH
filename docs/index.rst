@@ -6,6 +6,10 @@ Welcome to HxH motif
 Introduction 
 ************
 
+
+.. toctree::
+   DomainAnalysis
+
 PF12789 Phage tail repeat like  family largely contains proteins from the eukaryote Trichomonas vaginalis. 
 These proteins contain multiple HXH repeats. 
 Some proteins in this family are annotated as having phage tail repeats. 
