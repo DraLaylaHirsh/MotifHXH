@@ -10,8 +10,16 @@ author = u'Layla Hirsh'
 release = '1'
 version = '1.0'
 sphinx-rtd-theme==1.1.0b3
-# -- General configuration
 
+
+html_theme = 'sphinx_rtd_theme'
+extensions = [
+    'sphinx.ext.duration',
+    'sphinx.ext.doctest',
+    'sphinx.ext.autodoc',
+    'sphinx.ext.autosummary',
+    'sphinx.ext.intersphinx',
+]
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
@@ -22,9 +30,6 @@ intersphinx_disabled_domains = ['std']
 templates_path = ['_templates']
 
 # -- Options for HTML output
-
-#html_theme = 'sphinx_rtd_theme'
-#html_logo = '4gg4.png'
 
 latex_logo =  'REFRACT.png'
 # -- Options for EPUB output
