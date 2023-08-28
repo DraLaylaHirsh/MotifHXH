@@ -34,4 +34,3 @@ Sequence:
 
 
 
-.. image:: /images/A0A1C9EHQ3.png
