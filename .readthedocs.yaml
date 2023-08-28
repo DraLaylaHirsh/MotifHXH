@@ -10,7 +10,7 @@ sphinx:
 
 python:
   install:
-    - requirements: requirements/docs.txt
+    - requirements: docs/docs.txt
 
 build:
   os: ubuntu-22.04
