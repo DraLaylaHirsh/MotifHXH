@@ -7,7 +7,7 @@ Alpha fold model M5DP79
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >M5DP79_9GAMM/1274	
   MDYPLSDSNARLVDGKFTDGDPVNAVPPSKNSAVYQNAIHDELLNVISGGGLIPDEAQ
