@@ -12,7 +12,7 @@ Alpha fold model A0A2C4NY32
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|A0A2C4NY32|A0A2C4NY32_9BACI Head fiber protein OS=Bacillus wiedmannii OX=1890302 
   MAISENEVKRLNLSMPVANDVKLGDIIKTLQESSGGSINVTWSDVSNKPSTFPPATHTHT
@@ -28,7 +28,7 @@ Alpha fold model R5HI95
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|R5HI95|R5HI95_9SPIR Major tropism determinant N-terminal domain-containing protein
   MGTIQIKRGLKANLPSEAPAGALLYTTDEKKFYIGNGEGKALTAFDNAQQLAEYLATKSD
