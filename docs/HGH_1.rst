@@ -22,7 +22,7 @@ Sequence:
   DGGTF
 
 
-.. image:: /images/A0A1G6EJ11.png
+
 
 
 Alpha fold model S7VE77
@@ -44,4 +44,4 @@ Sequence:
   TALDGKEGTLNANQKRTITVGTAAPSGGSDGDIYLQYT
 
 
-.. image:: /images/S7VE77.png
+
