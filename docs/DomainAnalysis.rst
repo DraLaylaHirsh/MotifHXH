@@ -90,14 +90,20 @@ VIRUS
 -----
 The 212 bacterias present in this cluster do not have an AF model as a monomer nor as trimer. We took two sequences and model them as trimers.
 
-C7F4B3
+`Interpro C7F4B3 <https://www.ebi.ac.uk/interpro/protein/UniProt/C7F4B3/>`_
+
 .. image:: /images/C7F4B3_trimer.png
+
 .. image:: /images/C7F4B3_trimerDomain.png
+
 .. image:: /images/C7F4B3_trimerbfactor.png
 
-B5U373
+`Interpro B5U373 <https://www.ebi.ac.uk/interpro/protein/UniProt/B5U373/>`_
+
 .. image:: /images/B5U373_trimer.png
+
 .. image:: /images/B5U373_trimerbfactor.png
+
 .. image:: /images/B5U373_trimerDomain.png
 
 We also try to observe the amino acids present in all these sequences:
