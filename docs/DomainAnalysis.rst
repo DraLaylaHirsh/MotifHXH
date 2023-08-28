@@ -48,7 +48,7 @@ Considering the species we have:
 ARCHEA
 ------
 
-`Interpro 1L0KWD4yu0 <https://www.ebi.ac.uk/interpro/protein/UniProt/L0KWD4/alphafold/>`_, the alpha fold model as a trimer is `in this link <https://github.com/DraLaylaHirsh/MotifHXH/blob/c196f9d843f3fa6a72d9de0b6088dcec5d261e6d/docs/pdb/arch_L0KWD4Trimer.pdb>`_ 
+`Interpro L0KWD4 <https://www.ebi.ac.uk/interpro/protein/UniProt/L0KWD4/alphafold/>`_, the alpha fold model as a trimer is `in this link <https://github.com/DraLaylaHirsh/MotifHXH/blob/c196f9d843f3fa6a72d9de0b6088dcec5d261e6d/docs/pdb/arch_L0KWD4Trimer.pdb>`_ 
 
 
 .. image:: /images/L0KWD4_trimerDomain.png
@@ -60,3 +60,12 @@ ARCHEA
 
 EUKARIOT
 --------
+
+`Interpro B9TE92 <https://www.ebi.ac.uk/interpro/protein/UniProt/B9TE92/alphafold/>`_, the alpha fold model as a trimer is `in this link <https://github.com/DraLaylaHirsh/MotifHXH/blob/e3a29b2d6a0dddc5704111fd69cd046d4edf1363/docs/pdb/euk_B9TE92trimer.pdb>`_ 
+
+
+.. image:: /images/B9TE92_trimerDomain.png
+
+.. image:: /images/B9TE92_trimerbfactor.png
+
+.. image:: /images/B9TE92_trimer.png
