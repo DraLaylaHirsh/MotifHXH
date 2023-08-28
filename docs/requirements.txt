@@ -1,6 +1,8 @@
-sphinx==5.3.0
-sphinx_rtd_theme==1.1.1
-readthedocs-sphinx-search==0.1.1
+sphinx:
+  builder: html
+  configuration: conf.py
+  fail_on_warning: true
 
-sphinx
-sphinx_rtd_theme
+# If using Sphinx, optionally build your docs in additional formats such as PDF
+formats:
+  - pdf
