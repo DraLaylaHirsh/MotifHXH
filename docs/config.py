@@ -10,7 +10,7 @@ author = u'Layla Hirsh'
 release = '1'
 version = '1.0'
 sphinx-rtd-theme==1.1.0b3
-html_theme = 'sphinx_rtd_theme'
+html_theme = "sphinx_rtd_theme"
 extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
