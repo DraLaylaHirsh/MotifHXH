@@ -15,7 +15,7 @@ Alpha fold model A0A5F1S6D7
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|A0A5F1S6D7|A0A5F1S6D7_9HYPH Bacteriophage T7 Gp17 C-terminal domain-containing 
   MLQSEPASTLANWQELRTPTDVVQSVAGRQGAVTLTSADLTDASTVGRALFTAANATAQV
