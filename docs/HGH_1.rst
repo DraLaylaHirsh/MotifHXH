@@ -12,7 +12,7 @@ Alpha fold model A0A1G6EJ11
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >A0A1G6EJ11_9HYPH/1249
   MANVIRIKRRVSGAAGAPAALKSAELAHNEVDDTLYVGKGDDGGGNATSVVPLAGKGAFVD
@@ -31,7 +31,7 @@ Alpha fold model S7VE77
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >S7VE77_9DELT/1465
   MTIATTLSREQYAGNGLTTAWPVPFTFYDAADIIVVVSDSDGSNPLTLELGTDYSVSGGDG
