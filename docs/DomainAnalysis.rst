@@ -89,10 +89,12 @@ We also try to observe the amino acids present in all these sequences:
 VIRUS
 -----
 The 212 bacterias present in this cluster do not have an AF model as a monomer nor as trimer. We took two sequences and model them as trimers.
+
 C7F4B3
 .. image:: /images/C7F4B3_trimer.png
 .. image:: /images/C7F4B3_trimerDomain.png
 .. image:: /images/C7F4B3_trimerbfactor.png
+
 B5U373
 .. image:: /images/B5U373_trimer.png
 .. image:: /images/B5U373_trimerbfactor.png
