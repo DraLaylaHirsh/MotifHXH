@@ -69,3 +69,35 @@ EUKARIOT
 .. image:: /images/B9TE92_trimerbfactor.png
 
 .. image:: /images/B9TE92_trimer.png
+
+
+BACTERIA
+--------
+The 128 bacterias present in this cluster have an AF model as a monomer, we took three small sequences and model them as trimers.
+
+A0A0F2JLV1
+
+A0A1H4DFS6.fasta
+A0A4S4BSN2.fasta
+
+We also try to observe the amino acids present in all these sequences:
+
+.. image:: /images/bacteriaAA.png
+
+
+
+VIRUS
+-----
+The 212 bacterias present in this cluster do not have an AF model as a monomer nor as trimer. We took two sequences and model them as trimers.
+
+.. image:: /images/C7F4B3_trimerDomain.png
+.. image:: /images/C7F4B3_trimerbfactor.png
+.. image:: /images/C7F4B3_trimer.png
+.. image:: /images/B5U373_trimer.png
+.. image:: /images/B5U373_trimerbfactor.png
+.. image:: /images/B5U373_trimerDomain.png
+
+We also try to observe the amino acids present in all these sequences:
+
+.. image:: /images/virusAA.png
+
