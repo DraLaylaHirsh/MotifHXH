@@ -3,7 +3,7 @@ Motif HGH (two copies)
 
 Alpha fold model M5DP79
 ---------------------------
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/>M5DP79/>`_
+`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/M5DP79/>`_
 
 Sequence:
 
