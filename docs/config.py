@@ -6,10 +6,14 @@ project = u'Motif HxH'
 copyright = u'2023, Layla Hirsh'
 author = u'Layla Hirsh'
 
+sphinx==5.3.0
+sphinx_rtd_theme==1.1.1
+readthedocs-sphinx-search==0.1.1
+
 
 release = '1'
 version = '1.0'
-sphinx-rtd-theme==1.1.0b3
+
 html_theme = "sphinx_rtd_theme"
 extensions = [
     'sphinx.ext.duration',
