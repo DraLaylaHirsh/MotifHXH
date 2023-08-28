@@ -13,7 +13,7 @@ Alpha fold model W8G0W4
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >tr|W8G0W4|W8G0W4_9CAUD Minor tail protein OS=Mycobacterium phage Alsfro
   MTVTITADVRDVTGQPDNQQWVFSTVLRQQDGSILTQKQVRVNPVDGALSVELEPGFAIV
@@ -33,7 +33,7 @@ Alpha fold model Q2L2P2
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
 >tr|Q2L292|Q2L292_BORA1 Phage protein OS=Bordetella avium (strain 197N) OX=360910 GN=BAV1475
 MEIKELPQPPSRSDPESFPERADAFLAALPEFAAQLNALAQRVGADKEVTSRGSASAASS
