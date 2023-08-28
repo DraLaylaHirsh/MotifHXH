@@ -1,5 +1,5 @@
 Motif HTH (two copies)
-=====================
+======================
 We took the complete sequences and aligned them:
 
 .. image:: /images/seqsAlignedHTH_2.png
@@ -8,8 +8,8 @@ We took the complete sequences and aligned them:
 
 
 Alpha fold model W8G0W4
----------------------------
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/W8G0W4/>`_
+------------------------
+Interpro sequence `information <https://www.ebi.ac.uk/interpro/protein/UniProt/W8G0W4/>`_
 
 Sequence:
 
