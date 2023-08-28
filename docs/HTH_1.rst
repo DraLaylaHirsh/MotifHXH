@@ -8,7 +8,7 @@ We took the complete sequences and aligned them:
 
 Alpha fold model A0A2C4NY32
 ---------------------------
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A2C4NY32/>`_
+Interpro sequence `information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A2C4NY32/>`_
 
 Sequence:
 
@@ -23,7 +23,7 @@ Sequence:
 
 
 Alpha fold model R5HI95
----------------------------
+-----------------------
 `Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/R5HI95/>`_
 
 Sequence:
