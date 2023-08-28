@@ -8,7 +8,7 @@ Alpha fold model W5TSH2
 
 Sequence:
 
-.. code-block:: Sequence
+.. code-block:: 
 
   >W5TSH2_9NOCA/1433
   MSLIGSEPDVPGIGPVSPPTGGVMVPYPGPPGPVGPKGEDGERGEQGEAGPQGEQGVQGETGA
