@@ -1,5 +1,5 @@
 # Configuration file for the Sphinx documentation builder.
-pip install sphinx_rtd_theme
+
 # -- Project information
 
 project = u'Motif HxH'
