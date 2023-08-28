@@ -110,3 +110,8 @@ We also try to observe the amino acids present in all these sequences:
 
 .. image:: /images/virusAA.png
 
+
+A SECOND DOMAIN
+===============
+
+`Literature <https://europepmc.org/article/MED/30945633#free-full-text>`_
