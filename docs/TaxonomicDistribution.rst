@@ -326,7 +326,7 @@ Cluster 122
 
 After aligning and cleaning the redundancy we had 15 complete sequences that were trimmed 
 
-.. image:: /images/Pos1HxH122.png
+.. image:: /images/Pos1HxH122.png.png
 .. image:: /images/Pos500HxH122.png
 
 The motif HxH is present in 2 different sections
