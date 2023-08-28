@@ -21,5 +21,5 @@ Sequence:
 
 
 
-.. image:: /images/W5TSH2.png
+
 
