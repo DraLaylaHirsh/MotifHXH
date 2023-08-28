@@ -8,7 +8,7 @@ We took the complete sequences and aligned them:
 
 Alpha fold model A0A1G6EJ11
 ---------------------------
-`Interpro sequence information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A1G6EJ11/>`_
+Interpro sequence `information <https://www.ebi.ac.uk/interpro/protein/UniProt/A0A1G6EJ11/>`_
 
 Sequence:
 
