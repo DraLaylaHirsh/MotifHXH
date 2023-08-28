@@ -61,7 +61,7 @@ ARCHEA
 EUKARIOT
 --------
 
-`Interpro B9TE92 <https://www.ebi.ac.uk/interpro/protein/UniProt/B9TE92/alphafold/>`_, the alpha fold model as a trimer is `in this link <https://github.com/DraLaylaHirsh/MotifHXH/blob/e3a29b2d6a0dddc5704111fd69cd046d4edf1363/docs/pdb/euk_B9TE92trimer.pdb>`_ 
+`Interpro B9TE92 <https://www.ebi.ac.uk/interpro/protein/UniProt/B9TE92/alphafold/>`_, the alpha fold model as a trimer is in this `link <https://github.com/DraLaylaHirsh/MotifHXH/blob/e3a29b2d6a0dddc5704111fd69cd046d4edf1363/docs/pdb/euk_B9TE92trimer.pdb>`_ 
 
 
 .. image:: /images/B9TE92_trimerDomain.png
