@@ -125,3 +125,12 @@ A SECOND DOMAIN
 
 .. image:: /images/Logo2ndDomain.png
 
+.. image:: /images/taxDom2.png
+
+.. image:: /images/Domain2_dom.png
+
+.. image:: /images/Domain2_dom2.png
+
+.. image:: /images/Domin2_dom3.png
+
+.. image:: /images/Domain2_dom4.png
