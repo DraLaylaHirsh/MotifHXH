@@ -2,7 +2,11 @@
 ============================
 
 We initiate the process using these `sequences <https://github.com/DraLaylaHirsh/MotifHXH/blob/a388a0e05979c92a9891dd03c4be3f1a81c621c2/docs/trimerdata/AndreySEED>`_ as input seed for Hmmer, then, after some
-iterations we obtain `this seed <https://github.com/DraLaylaHirsh/MotifHXH/blob/378eed498ed9084f38a9fdd86ed9973d3468981d/docs/trimerdata/SEEDtrimer.afa>`_ .  The resulting complete sequences from uniprot can be download from here `these sequences <https://github.com/DraLaylaHirsh/MotifHXH/blob/399acd797c20e22a7ac3428ee3f6d53aa031a562/docs/trimerdata/C2C4DF86-4578-11EE-808C-C3E6F8E0C6C4.1-fullseq.fa.gz>`_
+iterations we obtain `this seed <https://github.com/DraLaylaHirsh/MotifHXH/blob/378eed498ed9084f38a9fdd86ed9973d3468981d/docs/trimerdata/SEEDtrimer.afa>`_ .  
+
+.. image:: /images/NterminalDomain.png
+
+The resulting complete sequences from uniprot can be download from here `these sequences <https://github.com/DraLaylaHirsh/MotifHXH/blob/399acd797c20e22a7ac3428ee3f6d53aa031a562/docs/trimerdata/C2C4DF86-4578-11EE-808C-C3E6F8E0C6C4.1-fullseq.fa.gz>`_
 
 The taxonomy of the search results are:
 
