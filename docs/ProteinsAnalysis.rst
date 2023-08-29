@@ -61,11 +61,23 @@ C terminal 680 - 1244 region
 >gi|3915245|sp|Q38394|VG37_BPK3 Long tail fiber protein p37 (Protein Gp37) (Receptor recognizing protein)
 ---------------------------------------------------------------------------------------------------------
 
+463 - 644 Region
+
+https://swissmodel.expasy.org/templates/4uxg.1
+
+921-1004 region
+
 https://swissmodel.expasy.org/repository/uniprot/Q38394?csm=115E6B9D0C695928
+
+1139 - 1242 Region
+
+https://swissmodel.expasy.org/templates/7dc3.1
+
 
 N terminal 1 - 559 region
 
 .. image:: /images/4@4_Q38394nterm_559.png
+
 
 >gi|93662|pir||S13237 tail fiber protein gp37 - phage TuIa (fragment)
 ----------------------------------------------------------------------
