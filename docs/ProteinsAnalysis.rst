@@ -9,7 +9,13 @@ N terminal 1 - 551 region
 
 .. image:: /images/2@2_T4nterm_551.png
 
+From pdb 2xgf 811 - 1026
+
+.. image:: /images/2xgf_pdb.png
+
 https://swissmodel.expasy.org/repository/uniprot/P03744
+
+https://www.rcsb.org/structure/2XGF
 
 >gi|138016|sp|P08232|VG37_BPOX2 Long tail fiber protein p37 (Protein Gp37) (Receptor recognizing protein)
 
