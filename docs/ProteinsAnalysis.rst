@@ -21,13 +21,15 @@ https://www.rcsb.org/structure/2XGF
 >gi|138016|sp|P08232|VG37_BPOX2 Long tail fiber protein p37 (Protein Gp37) (Receptor recognizing protein)
 ---------------------------------------------------------------------------------------------------------
 
-Complete sequence:
+AF: Complete sequence:
 
 .. image:: /images/8@8_P08232trimer.png
 
 From 134-247 region
 
 SIB: https://swissmodel.expasy.org/repository/uniprot/P08232?csm=197D4BE750F7EDB0
+
+AF C terminal 1-251 Region: 
 
 .. image:: /images/8@8_P08232trimercterminal.png
 
@@ -51,7 +53,7 @@ SIB: https://swissmodel.expasy.org/repository/uniprot/P07067?template=7dc3.1.C&r
 >gi|138020|sp|P07876|VG38_BPK3 Receptor recognizing protein (Protein Gp38)
 ---------------------------------------------------------------------------
 
-2-260 Region
+AF: 2-260 Region
 
 SIB: https://swissmodel.expasy.org/repository/uniprot/P07876?csm=3B7E612BC62300C3
 
@@ -64,12 +66,14 @@ SIB: https://swissmodel.expasy.org/repository/uniprot/P07876?csm=3B7E612BC62300C
 
 SIB: https://swissmodel.expasy.org/repository/uniprot/P07875?csm=0567366918F6C745
 
+AF 1 - 262 Region: 
+
 .. image:: /images/2@2_P07875.png
 
 >gi|20140797|sp|Q9G0B5|VG37_BPAR1 Long tail fiber protein p37 (Protein Gp37) (Receptor recognizing protein)
 -----------------------------------------------------------------------------------------------------------
 
-C terminal 680 - 1244 region
+AF: C terminal 680 - 1244 region
 
 .. image:: /images/5@5_Q9G0B5cterm_565.png
 
@@ -89,7 +93,7 @@ SIB: https://swissmodel.expasy.org/repository/uniprot/Q38394?template=4uxg.1.A&r
 SIB: https://swissmodel.expasy.org/repository/uniprot/Q38394?template=7dc3.1.C&range=1139-1242
 
 
-N terminal 1 - 559 region
+AF:  N terminal 1 - 559 region
 
 .. image:: /images/4@4_Q38394nterm_559.png
 
@@ -104,6 +108,8 @@ SIB: https://swissmodel.expasy.org/repository/uniprot/G1FHG9?template=4uxg.1.A&r
 909-987 region
 
 SIB: https://swissmodel.expasy.org/repository/uniprot/G1FHG9?template=4uxg.1.A&range=909-987
+
+AF 1- 382 Region: 
 
 .. image:: /images/4@4_S13237trimer.png
 
