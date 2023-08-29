@@ -119,3 +119,9 @@ A SECOND DOMAIN
 ===============
 
 `Literature <https://europepmc.org/article/MED/30945633#free-full-text>`_
+
+
+`Seed <https://github.com/DraLaylaHirsh/MotifHXH/blob/2a64a24b30734eca22d79b43c8237c44eddbccfb/docs/trimerdata/SEEDtrimer2.afa>`_
+
+.. image:: /images/Logo2ndDomain.png
+
