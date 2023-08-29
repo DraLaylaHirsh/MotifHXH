@@ -33,6 +33,13 @@ AF C terminal 1-251 Region:
 
 .. image:: /images/8@8_P08232trimercterminal.png
 
+AF superimposed to Swiss Model:
+
+1-247 Region
+
+.. image:: /images/P08232_AF_SW.png
+
+https://github.com/DraLaylaHirsh/MotifHXH/blob/8c65c15f733b29ff56ca734dfec281b63a5a3a85/docs/trimerdata/allP08232.cif
 
 >gi|138017|sp|P07067|VG37_BPT2 Long tail fiber protein p37 (Protein Gp37) (Receptor recognizing protein)
 ---------------------------------------------------------------------------------------------------------
