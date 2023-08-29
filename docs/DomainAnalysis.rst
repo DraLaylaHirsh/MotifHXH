@@ -134,3 +134,12 @@ A SECOND DOMAIN
 .. image:: /images/Domin2_dom3.png
 
 .. image:: /images/Domain2_dom4.png
+
+A THIRD DOMAIN
+===============
+
+
+`Seed <https://github.com/DraLaylaHirsh/MotifHXH/blob/2f32418c8fd0e509cfa23e272e02a20f76b81075/docs/trimerdata/Domain3_2.afa>`_
+
+.. image:: /images/LogoDomain3.png
+
