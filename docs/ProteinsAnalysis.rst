@@ -6,15 +6,15 @@ We took proteins to obtain a pdb AlphaFold model:
 >gi|9632629|ref|NP_049863.1| gp37 long tail fiber
 -------------------------------------------------
 
-N terminal 1 - 551 region
+AF: N terminal 1 - 551 region
 
 .. image:: /images/2@2_T4nterm_551.png
 
-From pdb 2xgf 811 - 1026
+PDB DB:  2xgf 811 - 1026
 
 .. image:: /images/2xgf_pdb.png
 
-https://swissmodel.expasy.org/repository/uniprot/P03744
+SIB: https://swissmodel.expasy.org/repository/uniprot/P03744
 
 https://www.rcsb.org/structure/2XGF
 
@@ -25,9 +25,9 @@ Complete sequence:
 
 .. image:: /images/8@8_P08232trimer.png
 
-From 136-247 region
+From 134-247 region
 
-https://swissmodel.expasy.org/repository/uniprot/P08232?csm=197D4BE750F7EDB0
+SIB: https://swissmodel.expasy.org/repository/uniprot/P08232?csm=197D4BE750F7EDB0
 
 .. image:: /images/8@8_P08232trimercterminal.png
 
@@ -35,19 +35,34 @@ https://swissmodel.expasy.org/repository/uniprot/P08232?csm=197D4BE750F7EDB0
 >gi|138017|sp|P07067|VG37_BPT2 Long tail fiber protein p37 (Protein Gp37) (Receptor recognizing protein)
 ---------------------------------------------------------------------------------------------------------
 
-https://swissmodel.expasy.org/repository/uniprot/P07067?csm=1B7981E7EA5FA7F5
+477-649 Region 
+
+SIB: https://swissmodel.expasy.org/repository/uniprot/P07067?template=4uxg.1.A&range=477-649
+
+967-1046 Region
+
+SIB: https://swissmodel.expasy.org/repository/uniprot/P07067?template=4uxg.1.A&range=967-1046
+
+1237-1340 Region
+
+SIB: https://swissmodel.expasy.org/repository/uniprot/P07067?template=7dc3.1.C&range=1237-1340
+
 
 >gi|138020|sp|P07876|VG38_BPK3 Receptor recognizing protein (Protein Gp38)
 ---------------------------------------------------------------------------
 
-https://swissmodel.expasy.org/repository/uniprot/P07876?csm=3B7E612BC62300C3
+2-260 Region
+
+SIB: https://swissmodel.expasy.org/repository/uniprot/P07876?csm=3B7E612BC62300C3
 
 .. image:: /images/1@1_P07876trimer.png
 
 >gi|138023|sp|P07875|VG38_BPT2 Receptor recognizing protein (Protein Gp38)
 ----------------------------------------------------------------------------
 
-https://swissmodel.expasy.org/repository/uniprot/P07875?csm=0567366918F6C745
+2-262 Region
+
+SIB: https://swissmodel.expasy.org/repository/uniprot/P07875?csm=0567366918F6C745
 
 .. image:: /images/2@2_P07875.png
 
@@ -63,15 +78,15 @@ C terminal 680 - 1244 region
 
 463 - 644 Region
 
-https://swissmodel.expasy.org/templates/4uxg.1
+SIB: https://swissmodel.expasy.org/repository/uniprot/Q38394?template=4uxg.1.A&range=463-644
 
 921-1004 region
 
-https://swissmodel.expasy.org/repository/uniprot/Q38394?csm=115E6B9D0C695928
+SIB: https://swissmodel.expasy.org/repository/uniprot/Q38394?template=4uxg.1.A&range=921-1004
 
 1139 - 1242 Region
 
-https://swissmodel.expasy.org/templates/7dc3.1
+SIB: https://swissmodel.expasy.org/repository/uniprot/Q38394?template=7dc3.1.C&range=1139-1242
 
 
 N terminal 1 - 559 region
@@ -82,7 +97,13 @@ N terminal 1 - 559 region
 >gi|93662|pir||S13237 tail fiber protein gp37 - phage TuIa (fragment)
 ----------------------------------------------------------------------
 
-https://swissmodel.expasy.org/repository/uniprot/G1FHG9?csm=32BACA8CF1620024
+444 - 627 region
+
+SIB: https://swissmodel.expasy.org/repository/uniprot/G1FHG9?template=4uxg.1.A&range=444-627
+
+909-987 region
+
+SIB: https://swissmodel.expasy.org/repository/uniprot/G1FHG9?template=4uxg.1.A&range=909-987
 
 .. image:: /images/4@4_S13237trimer.png
 
