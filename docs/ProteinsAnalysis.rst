@@ -118,6 +118,8 @@ AF superimposed to Swiss Model:
 
 .. image:: /images/Q38394_AF_SW.png
 
+https://github.com/DraLaylaHirsh/MotifHXH/blob/5d9d565e103aed390f9287112bb21b3ef680872f/docs/trimerdata/Q38394.cif
+
 >gi|93662|pir||S13237 tail fiber protein gp37 - phage TuIa (fragment)
 ----------------------------------------------------------------------
 
