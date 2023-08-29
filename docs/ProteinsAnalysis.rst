@@ -92,11 +92,24 @@ SIB: https://swissmodel.expasy.org/repository/uniprot/Q38394?template=4uxg.1.A&r
 
 SIB: https://swissmodel.expasy.org/repository/uniprot/Q38394?template=7dc3.1.C&range=1139-1242
 
+Using Swiss Model together
+
+
+.. image:: /images/SurfaceQ38394SWiss.png
+
+.. image:: /images/CartoonQ38394SWiss.png
+
+
 
 AF:  N terminal 1 - 559 region
 
 .. image:: /images/4@4_Q38394nterm_559.png
 
+AF superimposed to Swiss Model:
+
+1 - 644 Region
+
+.. image:: /images/Q38394_AF_SW.png
 
 >gi|93662|pir||S13237 tail fiber protein gp37 - phage TuIa (fragment)
 ----------------------------------------------------------------------
