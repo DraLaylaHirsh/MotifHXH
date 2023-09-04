@@ -131,9 +131,8 @@ A SECOND DOMAIN
 
 .. image:: /images/Domain2_dom2.png
 
-.. image:: /images/Domin2_dom3.png
+.. image:: /images/Domain2_dom3.png
 
-.. image:: /images/Domain2_dom4.png
 
 A THIRD DOMAIN
 ===============
