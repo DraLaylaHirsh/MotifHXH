@@ -142,3 +142,12 @@ A THIRD DOMAIN
 
 .. image:: /images/LogoDomain3.png
 
+.. image:: /images/taxDom3.png
+
+.. image:: /images/Domain3_dom.png
+
+.. image:: /images/Domain3_dom2.png
+
+.. image:: /images/Domain3_dom3.png
+
+.. image:: /images/Domain3_dom3.png
