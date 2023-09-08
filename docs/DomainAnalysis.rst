@@ -164,3 +164,17 @@ A THIRD DOMAIN
 .. image:: /images/Domain3_dom3.png
 
 .. image:: /images/Domain3_dom3.png
+
+E9I2F2 (EUK)
+------------
+
+.. image:: /images/E9I2F2.png
+
+.. image:: /images/E9I2F2bfactor.png
+
+
+`Monomer AF model E9I2F2 <https://github.com/DraLaylaHirsh/MotifHXH/blob/58e197fcda7568fd54e2c045ca0dbe14c4f616c4/docs/pdb/AF-E9I2F2-F1-model_v4.pdb>`_
+
+`Pymol Sesion  E9I2F2.pse<https://github.com/DraLaylaHirsh/MotifHXH/blob/58e197fcda7568fd54e2c045ca0dbe14c4f616c4/docs/pdb/E9I2F2.pse>`_
+
+`Trimer AF model E9I2F2E9I2F2trimer.pdb <https://github.com/DraLaylaHirsh/MotifHXH/blob/58e197fcda7568fd54e2c045ca0dbe14c4f616c4/docs/pdb/E9I2F2trimer.pdb>`_
