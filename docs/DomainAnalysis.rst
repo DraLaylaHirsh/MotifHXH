@@ -136,11 +136,14 @@ A SECOND DOMAIN
 
 K6SYF0
 ------
+Model Seed <
+`Monomer AF model AF-K6SYF0-F1-model_v4.pdb <https://github.com/DraLaylaHirsh/MotifHXH/blob/94364ff359133a7ed4f9d31259fb208a972228be/docs/images/AF-K6SYF0-F1-model_v4.pdb>`_
+`Pymol Sesion  K6SYF0.pse <https://github.com/DraLaylaHirsh/MotifHXH/blob/94364ff359133a7ed4f9d31259fb208a972228be/docs/images/K6SYF0.pse>`_
 
-Monomer AF model AF-K6SYF0-F1-model_v4.pdb
-Pymol Sesion  K6SYF0.pse
-K6SYF0_bfactor.png
-K6SYF0.png
+.. image:: /images/K6SYF0_bfactor.png
+
+.. image:: /images/K6SYF0.png
+
 
 
 A THIRD DOMAIN
