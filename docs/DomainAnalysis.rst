@@ -134,6 +134,15 @@ A SECOND DOMAIN
 .. image:: /images/Domain2_dom3.png
 
 
+K6SYF0
+------
+
+Monomer AF model AF-K6SYF0-F1-model_v4.pdb
+Pymol Sesion  K6SYF0.pse
+K6SYF0_bfactor.png
+K6SYF0.png
+
+
 A THIRD DOMAIN
 ===============
 
